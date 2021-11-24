@@ -7,7 +7,7 @@ TrainedFaceData = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 #choose an image to read
 #img = cv2.imread('1.jpg')
 
-webcam = cv2.VideoCapture(1)
+webcam = cv2.VideoCapture(0)
 
 #iteration forever over frames
 while True:
