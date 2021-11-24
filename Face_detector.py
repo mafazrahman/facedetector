@@ -28,4 +28,4 @@ cv2.imshow('Mafaz face detector',img)
 #wait for type any key to close the window
 cv2.waitKey()
 
-print("Code completed")
+print("Code completed ")
